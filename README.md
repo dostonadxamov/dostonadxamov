@@ -2,7 +2,9 @@
 <p align="center">Frontend developer • HTML | Css | JavaScript React | TypeScript</p>
 
 <p align="center">
-  <a href="https://github.com/dostonadxamov"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react"/></a>
+  <a href="https://github.com/dostonadxamov"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=ract"/></a>
+    <a href="https://github.com/dostonadxamov"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react"/></a>
+    <a href="https://github.com/dostonadxamov"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react"/></a>
   <a href="mailto:dostonadxamov222@gmail.com"><img src="https://img.shields.io/badge/Email-dostonadxamov222@gmail.com-blue?style=for-the-badge"/></a>
 </p>
 

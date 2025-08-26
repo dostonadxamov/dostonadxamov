@@ -1,7 +1,7 @@
 <h1 align="center">Salom! Men <b>Doston</b> 👋</h1>
 <p align="center">Frontend developer • HTML | CSS | JavaScript | React | TypeScript</p>
 
-<!-- Skills Badges yonma-yon -->
+<!-- Skills Badges -->
 <p align="center">
   <a href="https://github.com/dostonadxamov">
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<!-- Loyihalar Cards yonma-yon -->
+<!-- Projects -->
 <h2 align="center">🌐 My Netlify & Vercel Projects</h2>
 <table align="center">
   <tr>
@@ -98,7 +98,23 @@
   </tr>
 </table>
 
-<!-- Kontaktlar yonma-yon -->
+<!-- GitHub Stats yonma-yon -->
+<h2 align="center">📊 Statistika & 📚 Eng ko‘p ishlatilgan tillar</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
+        <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
+      </picture>
+    </td>
+    <td align="center">
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostonadxamov&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Kontaktlar -->
 <h2 align="center">🤝 Menga ulanishingiz mumkin</h2>
 <p align="center">
   <a href="https://t.me/DOSTON_DEVELOPER"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>

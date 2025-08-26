@@ -19,9 +19,87 @@
   </a>
 </p>
 
+## 🌐 My Netlify & Vercel Projects
 
-## 🔭 Loyihalarim
-Hozircha yoq
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://spontaneous-tanuki-adb569.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Mini+Store" width="200px"/><br/>
+        Mini Store
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://velvety-kashata-f00e42.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Dessert" width="200px"/><br/>
+        Dessert
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://zesty-otter-e326f5.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Headphones" width="200px"/><br/>
+        Headphones
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://whimsical-sprite-e3ae08.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Region" width="200px"/><br/>
+        Region
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://roaring-biscotti-e566b4.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Don-Don" width="200px"/><br/>
+        Don-Don
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://todo-project-adxamovs.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=TodoList" width="200px"/><br/>
+        TodoList
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://illustrious-seahorse-8f28f0.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Futbol" width="200px"/><br/>
+        Futbol
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://algorithm-evengers-topshiriq-1.netlify.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Design" width="200px"/><br/>
+        Design
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://autharition.vercel.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Auth" width="200px"/><br/>
+        Auth
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://context-store-rosy.vercel.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Context+Store" width="200px"/><br/>
+        Context Store
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://fake-shop-flax.vercel.app/">
+        <img src="https://via.placeholder.com/200x120.png?text=Fake+Shop" width="200px"/><br/>
+        Fake Shop
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
 ## 📊 Statistika
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
@@ -37,6 +115,6 @@ Hozircha yoq
 ## 🤝 Menga ulanishingiz mumkin
 <p align="left">
 <a href="https://t.me/DOSTON_DEVELOPER"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/doston-adxamov-47709a320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dostonadxamov222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

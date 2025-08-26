@@ -2,11 +2,23 @@
 <p align="center">Frontend developer • HTML | Css | JavaScript React | TypeScript</p>
 
 <p align="center">
-  <a href="https://github.com/dostonadxamov"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=ract"/></a>
-    <a href="https://github.com/dostonadxamov"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react"/></a>
-    <a href="https://github.com/dostonadxamov"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react"/></a>
-  <a href="mailto:dostonadxamov222@gmail.com"><img src="https://img.shields.io/badge/Email-dostonadxamov222@gmail.com-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/dostonadxamov">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://github.com/dostonadxamov">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5"/>
+  </a>
+  <a href="https://github.com/dostonadxamov">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"/>
+  </a>
+  <a href="https://github.com/dostonadxamov">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  </a>
+  <a href="mailto:dostonadxamov222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dostonadxamov222@gmail.com-blue?style=for-the-badge" alt="Email"/>
+  </a>
 </p>
+
 
 ## 🔭 Loyihalarim
 Hozircha yoq

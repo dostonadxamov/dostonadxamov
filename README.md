@@ -22,75 +22,81 @@
 
 <!-- Projects -->
 <h2 align="center">🌐 My Netlify & Vercel Projects</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://spontaneous-tanuki-adb569.netlify.app/">
-        <img src="https://i.postimg.cc/GtYB3Cw5/Screenshot-From-2025-08-27-01-38-05.png" width="150px"/><br/>
-        Mini Store
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://velvety-kashata-f00e42.netlify.app/">
-        <img src="https://i.postimg.cc/ZnFTDKh4/Screenshot-From-2025-08-27-01-46-32.png" width="150px"/><br/>
-        Dessert
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://zesty-otter-e326f5.netlify.app/">
-        <img src="https://i.postimg.cc/2S3Dnx3z/Screenshot-From-2025-08-27-01-48-38.png" width="150px"/><br/>
-        Headphones
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://whimsical-sprite-e3ae08.netlify.app/">
-        <img src="https://i.postimg.cc/cJqb67nk/Screenshot-From-2025-08-27-01-50-22.png" width="150px"/><br/>
-        Region
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://roaring-biscotti-e566b4.netlify.app/">
-        <img src="https://i.postimg.cc/mZdp7W9H/Screenshot-From-2025-08-27-01-51-16.png" width="150px"/><br/>
-        Don-Don
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://todo-project-adxamovs.netlify.app/">
-        <img src="https://i.postimg.cc/13FWxgjG/Screenshot-From-2025-08-27-01-52-24.png" width="150px"/><br/>
-        TodoList
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://algorithm-evengers-topshiriq-1.netlify.app/">
-        <img src="https://i.postimg.cc/cC6mF638/Screenshot-From-2025-08-27-01-54-20.png" width="150px"/><br/>
-        Design
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://autharition.vercel.app/">
-        <img src="https://i.postimg.cc/85XdfDYk/Screenshot-From-2025-08-27-01-56-24.png" width="150px"/><br/>
-        Auth
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://context-store-rosy.vercel.app/">
-        <img src="https://i.postimg.cc/BbdxNpsd/Screenshot-From-2025-08-27-01-57-25.png" width="150px"/><br/>
-        Context Store
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://fake-shop-flax.vercel.app/">
-        <img src="https://i.postimg.cc/x1GKyLZ4/Screenshot-From-2025-08-27-01-58-35.png" width="150px"/><br/>
-        Fake Shop
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+
+  <a href="https://spontaneous-tanuki-adb569.netlify.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/GtYB3Cw5/Screenshot-From-2025-08-27-01-38-05.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Mini Store</h3>
+    </div>
+  </a>
+
+  <a href="https://velvety-kashata-f00e42.netlify.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/ZnFTDKh4/Screenshot-From-2025-08-27-01-46-32.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Dessert</h3>
+    </div>
+  </a>
+
+  <a href="https://zesty-otter-e326f5.netlify.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/2S3Dnx3z/Screenshot-From-2025-08-27-01-48-38.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Headphones</h3>
+    </div>
+  </a>
+
+  <a href="https://whimsical-sprite-e3ae08.netlify.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/cJqb67nk/Screenshot-From-2025-08-27-01-50-22.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Region</h3>
+    </div>
+  </a>
+
+  <a href="https://roaring-biscotti-e566b4.netlify.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/mZdp7W9H/Screenshot-From-2025-08-27-01-51-16.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Don-Don</h3>
+    </div>
+  </a>
+
+  <a href="https://todo-project-adxamovs.netlify.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/13FWxgjG/Screenshot-From-2025-08-27-01-52-24.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">TodoList</h3>
+    </div>
+  </a>
+
+  <a href="https://algorithm-evengers-topshiriq-1.netlify.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/cC6mF638/Screenshot-From-2025-08-27-01-54-20.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Design</h3>
+    </div>
+  </a>
+
+  <a href="https://autharition.vercel.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/85XdfDYk/Screenshot-From-2025-08-27-01-56-24.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Auth</h3>
+    </div>
+  </a>
+
+  <a href="https://context-store-rosy.vercel.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/BbdxNpsd/Screenshot-From-2025-08-27-01-57-25.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Context Store</h3>
+    </div>
+  </a>
+
+  <a href="https://fake-shop-flax.vercel.app/" style="text-decoration: none; color: inherit;">
+    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="https://i.postimg.cc/x1GKyLZ4/Screenshot-From-2025-08-27-01-58-35.png" width="100%" style="border-radius: 8px;"/>
+      <h3 align="center">Fake Shop</h3>
+    </div>
+  </a>
+
+</div>
+
 
 <!-- GitHub Stats yonma-yon -->
 <h2 align="center">📊 Statistika & 📚 Eng ko‘p ishlatilgan tillar</h2>

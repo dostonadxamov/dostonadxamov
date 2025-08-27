@@ -23,7 +23,7 @@
 <!-- Projects -->
 <h2 align="center">🌐 My Netlify & Vercel Projects</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; max-width: 900px; margin: auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(180, 1fr); gap: 15px; max-width: 900px; margin: auto;">
 
   <a href="https://spontaneous-tanuki-adb569.netlify.app/" style="text-decoration: none; color: inherit;">
     <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">

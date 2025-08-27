@@ -84,7 +84,7 @@
     </td>
     <td align="center">
       <a href="https://fake-shop-flax.vercel.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=Fake+Shop" width="150px"/><br/>
+        <img src="https://i.postimg.cc/x1GKyLZ4/Screenshot-From-2025-08-27-01-58-35.png" width="150px"/><br/>
         Fake Shop
       </a>
     </td>

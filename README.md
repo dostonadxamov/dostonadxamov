@@ -23,79 +23,80 @@
 <!-- Projects -->
 <h2 align="center">🌐 My Netlify & Vercel Projects</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; max-width: 900px; margin: auto;">
 
   <a href="https://spontaneous-tanuki-adb569.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/GtYB3Cw5/Screenshot-From-2025-08-27-01-38-05.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Mini Store</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/GtYB3Cw5/Screenshot-From-2025-08-27-01-38-05.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Mini Store</h4>
     </div>
   </a>
 
   <a href="https://velvety-kashata-f00e42.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/ZnFTDKh4/Screenshot-From-2025-08-27-01-46-32.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Dessert</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/ZnFTDKh4/Screenshot-From-2025-08-27-01-46-32.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Dessert</h4>
     </div>
   </a>
 
   <a href="https://zesty-otter-e326f5.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/2S3Dnx3z/Screenshot-From-2025-08-27-01-48-38.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Headphones</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/2S3Dnx3z/Screenshot-From-2025-08-27-01-48-38.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Headphones</h4>
     </div>
   </a>
 
   <a href="https://whimsical-sprite-e3ae08.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/cJqb67nk/Screenshot-From-2025-08-27-01-50-22.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Region</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/cJqb67nk/Screenshot-From-2025-08-27-01-50-22.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Region</h4>
     </div>
   </a>
 
   <a href="https://roaring-biscotti-e566b4.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/mZdp7W9H/Screenshot-From-2025-08-27-01-51-16.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Don-Don</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/mZdp7W9H/Screenshot-From-2025-08-27-01-51-16.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Don-Don</h4>
     </div>
   </a>
 
   <a href="https://todo-project-adxamovs.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/13FWxgjG/Screenshot-From-2025-08-27-01-52-24.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">TodoList</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/13FWxgjG/Screenshot-From-2025-08-27-01-52-24.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">TodoList</h4>
     </div>
   </a>
 
   <a href="https://algorithm-evengers-topshiriq-1.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/cC6mF638/Screenshot-From-2025-08-27-01-54-20.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Design</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/cC6mF638/Screenshot-From-2025-08-27-01-54-20.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Design</h4>
     </div>
   </a>
 
   <a href="https://autharition.vercel.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/85XdfDYk/Screenshot-From-2025-08-27-01-56-24.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Auth</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/85XdfDYk/Screenshot-From-2025-08-27-01-56-24.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Auth</h4>
     </div>
   </a>
 
   <a href="https://context-store-rosy.vercel.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/BbdxNpsd/Screenshot-From-2025-08-27-01-57-25.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Context Store</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/BbdxNpsd/Screenshot-From-2025-08-27-01-57-25.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Context Store</h4>
     </div>
   </a>
 
   <a href="https://fake-shop-flax.vercel.app/" style="text-decoration: none; color: inherit;">
-    <div style="border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-      <img src="https://i.postimg.cc/x1GKyLZ4/Screenshot-From-2025-08-27-01-58-35.png" width="100%" style="border-radius: 8px;"/>
-      <h3 align="center">Fake Shop</h3>
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+      <img src="https://i.postimg.cc/x1GKyLZ4/Screenshot-From-2025-08-27-01-58-35.png" width="100%"/>
+      <h4 align="center" style="margin:5px 0;">Fake Shop</h4>
     </div>
   </a>
 
 </div>
+
 
 
 <!-- GitHub Stats yonma-yon -->

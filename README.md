@@ -58,7 +58,7 @@
     </td>
     <td align="center">
       <a href="https://todo-project-adxamovs.netlify.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=TodoList" width="150px"/><br/>
+        <img src="[https://via.placeholder.com/150x90.png?text=TodoList](https://i.postimg.cc/13FWxgjG/Screenshot-From-2025-08-27-01-52-24.png)" width="150px"/><br/>
         TodoList
       </a>
     </td>

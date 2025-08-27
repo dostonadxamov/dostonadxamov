@@ -78,7 +78,7 @@
     </td>
     <td align="center">
       <a href="https://context-store-rosy.vercel.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=Context+Store" width="150px"/><br/>
+        <img src="https://i.postimg.cc/BbdxNpsd/Screenshot-From-2025-08-27-01-57-25.png" width="150px"/><br/>
         Context Store
       </a>
     </td>

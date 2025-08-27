@@ -38,7 +38,7 @@
     </td>
     <td align="center">
       <a href="https://zesty-otter-e326f5.netlify.app/">
-        <img src="[Screenshot-From-2025-08-27-01-48-38.png](https://postimg.cc/k2rzmKxZ)" width="150px"/><br/>
+        <img src="https://i.postimg.cc/2S3Dnx3z/Screenshot-From-2025-08-27-01-48-38.png" width="150px"/><br/>
         Headphones
       </a>
     </td>

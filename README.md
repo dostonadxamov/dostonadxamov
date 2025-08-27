@@ -72,7 +72,7 @@
   <tr>
     <td align="center">
       <a href="https://autharition.vercel.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=Auth" width="150px"/><br/>
+        <img src="https://i.postimg.cc/85XdfDYk/Screenshot-From-2025-08-27-01-56-24.png" width="150px"/><br/>
         Auth
       </a>
     </td>

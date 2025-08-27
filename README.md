@@ -32,7 +32,7 @@
     </td>
     <td align="center">
       <a href="https://velvety-kashata-f00e42.netlify.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=Dessert" width="150px"/><br/>
+        <img src="https://i.postimg.cc/ZnFTDKh4/Screenshot-From-2025-08-27-01-46-32.png" width="150px"/><br/>
         Dessert
       </a>
     </td>

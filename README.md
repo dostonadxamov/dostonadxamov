@@ -63,14 +63,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://illustrious-seahorse-8f28f0.netlify.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=Futbol" width="150px"/><br/>
-        Futbol
-      </a>
-    </td>
-    <td align="center">
       <a href="https://algorithm-evengers-topshiriq-1.netlify.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=Design" width="150px"/><br/>
+        <img src="https://i.postimg.cc/cC6mF638/Screenshot-From-2025-08-27-01-54-20.png" width="150px"/><br/>
         Design
       </a>
     </td>

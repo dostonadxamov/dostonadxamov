@@ -20,7 +20,33 @@
   </a>
 </p>
 
-<!-- Projects -->
+
+
+<!-- GitHub Stats yonma-yon -->
+<h2 align="center">📊 Statistika & 📚 Eng ko‘p ishlatilgan tillar</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
+        <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
+      </picture>
+    </td>
+    <td align="center">
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostonadxamov&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Kontaktlar -->
+<h2 align="center">🤝 Menga boglanishingiz  mumkin</h2>
+<p align="center">
+  <a href="https://t.me/DOSTON_DEVELOPER"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/doston-adxamov-47709a320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dostonadxamov222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+
 <h2 align="center">🌐 My Netlify & Vercel Projects</h2>
 
 <div align="center" style="display: grid; grid-template-columns: repeat(100px, 3fr); gap: 15px; max-width: 900px; margin: auto;">
@@ -96,29 +122,3 @@
   </a>
 
 </div>
-
-
-
-<!-- GitHub Stats yonma-yon -->
-<h2 align="center">📊 Statistika & 📚 Eng ko‘p ishlatilgan tillar</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
-        <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
-      </picture>
-    </td>
-    <td align="center">
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostonadxamov&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Kontaktlar -->
-<h2 align="center">🤝 Menga boglanishingiz  mumkin</h2>
-<p align="center">
-  <a href="https://t.me/DOSTON_DEVELOPER"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/doston-adxamov-47709a320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dostonadxamov222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>

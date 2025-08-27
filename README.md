@@ -26,7 +26,7 @@
   <tr>
     <td align="center">
       <a href="https://spontaneous-tanuki-adb569.netlify.app/">
-        <img src="https://via.placeholder.com/150x90.png?text=Mini+Store" width="150px"/><br/>
+        <img src="[Screenshot-From-2025-08-27-01-38-05.png](https://postimg.cc/JHr7KShN)" width="150px"/><br/>
         Mini Store
       </a>
     </td>

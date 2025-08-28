@@ -46,79 +46,71 @@
   <a href="mailto:dostonadxamov222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-
 <h2 align="center">🌐 My Netlify & Vercel Projects</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(100px, 3fr); gap: 15px; max-width: 900px; margin: auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; max-width: 900px; margin: auto;">
 
-  <a >
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/GtYB3Cw5/Screenshot-From-2025-08-27-01-38-05.png" width="100%"/>
-      <a  href="https://spontaneous-tanuki-adb569.netlify.app/" style="text-decoration: none; color: inherit;"  align="center" style="margin:5px 0;">Mini Store</a>
-    </div>
-  
+  <!-- Mini Store -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/GtYB3Cw5/Screenshot-From-2025-08-27-01-38-05.png" width="100%"/>
+    <a href="https://spontaneous-tanuki-adb569.netlify.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Mini Store</a>
+  </div>
 
-  <a href="https://velvety-kashata-f00e42.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/ZnFTDKh4/Screenshot-From-2025-08-27-01-46-32.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Dessert</h4>
-    </div>
-  </a>
+  <!-- Dessert -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/ZnFTDKh4/Screenshot-From-2025-08-27-01-46-32.png" width="100%"/>
+    <a href="https://velvety-kashata-f00e42.netlify.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Dessert</a>
+  </div>
 
-  <a href="https://zesty-otter-e326f5.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/2S3Dnx3z/Screenshot-From-2025-08-27-01-48-38.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Headphones</h4>
-    </div>
-  </a>
+  <!-- Headphones -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/2S3Dnx3z/Screenshot-From-2025-08-27-01-48-38.png" width="100%"/>
+    <a href="https://zesty-otter-e326f5.netlify.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Headphones</a>
+  </div>
 
-  <a href="https://whimsical-sprite-e3ae08.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/cJqb67nk/Screenshot-From-2025-08-27-01-50-22.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Region</h4>
-    </div>
-  </a>
+  <!-- Region -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/cJqb67nk/Screenshot-From-2025-08-27-01-50-22.png" width="100%"/>
+    <a href="https://whimsical-sprite-e3ae08.netlify.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Region</a>
+  </div>
 
-  <a href="https://roaring-biscotti-e566b4.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/mZdp7W9H/Screenshot-From-2025-08-27-01-51-16.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Don-Don</h4>
-    </div>
-  </a>
+  <!-- Don-Don -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/mZdp7W9H/Screenshot-From-2025-08-27-01-51-16.png" width="100%"/>
+    <a href="https://roaring-biscotti-e566b4.netlify.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Don-Don</a>
+  </div>
 
-  <a href="https://todo-project-adxamovs.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/13FWxgjG/Screenshot-From-2025-08-27-01-52-24.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">TodoList</h4>
-    </div>
-  </a>
+  <!-- TodoList -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/13FWxgjG/Screenshot-From-2025-08-27-01-52-24.png" width="100%"/>
+    <a href="https://todo-project-adxamovs.netlify.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">TodoList</a>
+  </div>
 
-  <a href="https://algorithm-evengers-topshiriq-1.netlify.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/cC6mF638/Screenshot-From-2025-08-27-01-54-20.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Design</h4>
-    </div>
-  </a>
+  <!-- Design -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/cC6mF638/Screenshot-From-2025-08-27-01-54-20.png" width="100%"/>
+    <a href="https://algorithm-evengers-topshiriq-1.netlify.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Design</a>
+  </div>
 
-  <a href="https://autharition.vercel.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/85XdfDYk/Screenshot-From-2025-08-27-01-56-24.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Auth</h4>
-    </div>
-  </a>
+  <!-- Auth -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/85XdfDYk/Screenshot-From-2025-08-27-01-56-24.png" width="100%"/>
+    <a href="https://autharition.vercel.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Auth</a>
+  </div>
 
-  <a href="https://context-store-rosy.vercel.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/BbdxNpsd/Screenshot-From-2025-08-27-01-57-25.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Context Store</h4>
-    </div>
-  </a>
+  <!-- Context Store -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/BbdxNpsd/Screenshot-From-2025-08-27-01-57-25.png" width="100%"/>
+    <a href="https://context-store-rosy.vercel.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Context Store</a>
+  </div>
 
-  <a href="https://fake-shop-flax.vercel.app/" style="text-decoration: none; color: inherit;">
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-      <img src="https://i.postimg.cc/x1GKyLZ4/Screenshot-From-2025-08-27-01-58-35.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Fake Shop</h4>
-    </div>
-  </a>
+  <!-- Fake Shop -->
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/x1GKyLZ4/Screenshot-From-2025-08-27-01-58-35.png" width="100%"/>
+    <a href="https://fake-shop-flax.vercel.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Fake Shop</a>
+  </div>
+
+</div>
+
 
 </div>

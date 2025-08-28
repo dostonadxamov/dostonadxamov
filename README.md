@@ -51,12 +51,12 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(100px, 3fr); gap: 15px; max-width: 900px; margin: auto;">
 
-  <a href="https://spontaneous-tanuki-adb569.netlify.app/" style="text-decoration: none; color: inherit;">
+  <a >
     <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
       <img src="https://i.postimg.cc/GtYB3Cw5/Screenshot-From-2025-08-27-01-38-05.png" width="100%"/>
-      <h4 align="center" style="margin:5px 0;">Mini Store</h4>
+      <a  href="https://spontaneous-tanuki-adb569.netlify.app/" style="text-decoration: none; color: inherit;"  align="center" style="margin:5px 0;">Mini Store</a>
     </div>
-  </a>
+  
 
   <a href="https://velvety-kashata-f00e42.netlify.app/" style="text-decoration: none; color: inherit;">
     <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">

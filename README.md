@@ -112,7 +112,7 @@
 
 
   <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
-    <img src="" width="100%"/>
+    <img src="https://i.postimg.cc/vTZMgPRX/Screenshot-From-2025-08-30-15-05-45.png" width="100%"/>
     <a href="https://authorization-three-pi.vercel.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Auth</a>
   </div>
 

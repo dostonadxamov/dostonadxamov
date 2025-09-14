@@ -111,6 +111,10 @@
     <a href="https://fake-shop-flax.vercel.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Fake Shop</a>
   </div>
 
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
+    <img src="https://i.postimg.cc/FF2gdFCB/Screenshot-From-2025-09-14-18-39-41.png" width="100%"/>
+    <a href="https://healty-psi.vercel.app/" style="display:block; margin:10px 0; text-decoration: none; color: inherit; font-weight:bold;">Healthy</a>
+  </div>
 
   <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.15); text-align:center;">
     <img src="https://i.postimg.cc/vTZMgPRX/Screenshot-From-2025-08-30-15-05-45.png" width="100%"/>
